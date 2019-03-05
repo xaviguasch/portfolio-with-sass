@@ -8,4 +8,16 @@ body {
   background: #fff; }
 
 a {
-  text-decoration: none; }
+  text-decoration: none;
+  color: #333; }
+
+ul {
+  list-style: none; }
+
+h2,
+h3,
+h4 {
+  text-transform: uppercase; }
+
+img {
+  width: 100%; }
